@@ -1,5 +1,5 @@
 <p align="center">
-<img width="500px" height="1000%" src="https://user-images.githubusercontent.com/105078661/190636598-76dcf7cc-a6db-4bc5-84a3-aa9da098aba2.jpg" alt="my banner"
+<img width="500px" height="1000%" src="https://user-images.githubusercontent.com/105078661/190812629-3c7fe487-e34a-4aed-a4d3-d7829ae85792.png" alt="my banner"
 
 <P/>
 
@@ -55,7 +55,7 @@ I love the challenge of finding solutions to problems and spending time to meet 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-UI-informational?style=flat&logo=UI Material&color=7952B3)
+![](https://img.shields.io/badge/Style-UI-informational?style=flat&logo=UIMaterial&color=7952B3)
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Gifftybabe)](https://github.com/Gifftybabe)
 
