@@ -57,7 +57,7 @@ I love the challenge of finding solutions to problems and spending time to meet 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-UI-informational?style=flat&logo=UIMaterial&color=7952B3)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Gifftybabe)](https://github.com/Gifftybabe)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gifftybabe&layout=compact)](https://github.com/Gifftybabe)
 
