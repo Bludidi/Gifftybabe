@@ -13,6 +13,10 @@ A Software Engineer in the making 💬 Full-Stack Web Developer 💻,  and Desig
 
 I love the challenge of finding solutions to problems and spending time to meet new people. Learning and trying new things and most importanly, having a hand in developing the INNOVATIONS of tomorrow!!
 
+### 🤝 Connect with me:
+
+<a href=”https://www.linkedin.com/in/gifftybabe/"><img align=”left” src=”https://raw.githubusercontent.com/Gifftybabe/Gifftybabe/main/images/linkedin.svg" alt=”Gifftybabe | LinkedIn” width=”21px”/></a>
+
 ## 🔭 I'm currently working on
 
 - My old projects
@@ -25,12 +29,6 @@ I love the challenge of finding solutions to problems and spending time to meet 
 - Firebase
 - Java, HTML, REACT JS, PYTHON
 - Styled Components
-
-### 🤝 Connect with me:
-
-<a href=”https://www.linkedin.com/in/Gifftybabe/"><img align=”left” src=”https://raw.githubusercontent.com/Gifftybabe/Gifftybabe/main/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
-
-</br>
 
 ## 💼 Technical Skills
 
@@ -57,7 +55,11 @@ I love the challenge of finding solutions to problems and spending time to meet 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-UI-informational?style=flat&logo=UIMaterial&color=7952B3)
 
+<br>
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Gifftybabe)](https://github.com/Gifftybabe)
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gifftybabe&layout=compact)](https://github.com/Gifftybabe)
 
