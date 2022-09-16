@@ -55,28 +55,10 @@ I love the challenge of finding solutions to problems and spending time to meet 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-UI-informational?style=flat&logo=UI&color=7952B3)
-
-<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img alt="bootstrape" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+![](https://img.shields.io/badge/Style-UI-informational?style=flat&logo=UI Material&color=7952B3)
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Gifftybabe)](https://github.com/Gifftybabe)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gifftybabe&layout=compact)](https://github.com/Gifftybabe)
 
-### Hi there 👋
-
-<!--
-**Gifftybabe/Gifftybabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gifftybabe.Gifftybabe)](https://www.yushi.dev/)
