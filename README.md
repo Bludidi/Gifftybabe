@@ -1,8 +1,10 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <link rel="stylesheet" href="css/index.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css"
-        integrity="sha384-zIaWifL2YFF1qaDiAo0JFgsmasocJ/rqu7LKYH8CoBEXqGbb9eO+Xi3s6fQhgFWM" crossorigin="anonymous">
-        
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
 <p align="center">
 <img width="50px" height="100px" src="https://user-images.githubusercontent.com/105078661/190636598-76dcf7cc-a6db-4bc5-84a3-aa9da098aba2.jpg" alt="my banner"
 
@@ -13,7 +15,12 @@ Hi there👋, I'm Gift
 </h3>
 
 <h2 align="center">
-I'm a Software Engineer in the making<i class="fa-brands fa-wpbeginner"></i> Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+<i class="fa fa-cloud">I'm a Software Engineer in the making</i>
+<i class="fa fa-heart"></i>
+<i class="fa fa-car"></i>
+<i class="fa fa-file"></i>
+<i class="fa fa-bars"></i>
+<i class="fa-brands fa-wpbeginner"></i> Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 </h2>
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img alt="bootstrape" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
