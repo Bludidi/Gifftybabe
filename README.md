@@ -15,7 +15,7 @@ I love the challenge of finding solutions to problems and spending time to meet 
 
 ### 🤝 Connect with me:
 
-<a href=”https://www.linkedin.com/in/gifftybabe/"><img align=”left” src=”https://raw.githubusercontent.com/Gifftybabe/Gifftybabe/main/images/linkedin.svg" alt=”Gifftybabe | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/gifftybabe/"><img align=”left” src=”(https://user-images.githubusercontent.com/105078661/190826730-b4b4896f-cc08-47c6-9198-3dd151596225.png" alt=”Gifftybabe | LinkedIn” width=”21px”/></a>
 
 ## 🔭 I'm currently working on
 
