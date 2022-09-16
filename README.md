@@ -1,26 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<body>
-
 <p align="center">
-<img width="50px" height="100px" src="https://user-images.githubusercontent.com/105078661/190636598-76dcf7cc-a6db-4bc5-84a3-aa9da098aba2.jpg" alt="my banner"
+<img width="50px" height="100%" src="https://user-images.githubusercontent.com/105078661/190636598-76dcf7cc-a6db-4bc5-84a3-aa9da098aba2.jpg" alt="my banner"
 
 <P/>
 
 <h3 align="center">
-Hi there👋, I'm Gift
+Hi there👋, I'm Gift 8-)
 </h3>
 
 <h2 align="center">
-<i class="fa fa-cloud">I'm a Software Engineer in the making</i>
-<i class="fa fa-heart"></i>
-<i class="fa fa-car"></i>
-<i class="fa fa-file"></i>
-<i class="fa fa-bars"></i>
-<i class="fa-brands fa-wpbeginner"></i> Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Software Engineer in the making Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 </h2>
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img alt="bootstrape" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
