@@ -26,6 +26,19 @@ I love the challenge of finding solutions to problems and spending time to meet 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gifftybabe&layout=compact)](https://github.com/Gifftybabe)
 
+## 🔭 I'm currently working on
+
+- My old projects
+- My blog
+- My CSS skill
+
+## 🌱 I'm currently learning
+
+- 📱 C programming
+- Firebase
+- Java, HTML, REACT JS, PYTHON
+- Styled Components
+
 ### Hi there 👋
 
 <!--
