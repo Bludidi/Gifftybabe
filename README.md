@@ -1,6 +1,3 @@
-  <link rel="stylesheet" href="./css/boxicons.min.css">
-  <link rel="stylesheet" href="./css/style.css">
- 
  <p align="center">
 <img width="1000px" height="2000%" src="https://user-images.githubusercontent.com/105078661/190812629-3c7fe487-e34a-4aed-a4d3-d7829ae85792.png" alt="my banner"
 
@@ -18,14 +15,7 @@ I love the challenge of finding solutions to problems and spending time to meet 
 
 ### 🤝 Connect with me:
 
-            </div>
-            <div class="col-auto">
-                <div class="social-links">
-                    <a href="https://www.linkedin.com/in/gifftybabe/"><i class='bx bxl-facebook'></i></a>
-                    <a href="https://twitter.com/Gifftybabe"><i class='bx bxl-twitter'></i></a>
-                    <a href="https://www.instagram.com/gifftybabe/"><i class='bx bxl-instagram'></i></a>
-
-                </div>
+<a href=”https://www.linkedin.com/in/gifftybabe/"><img align=”left” src=”https://user-images.githubusercontent.com/105078661/190830360-59dc8680-1aed-47c1-aa6a-cdb36784629e.png.com/Gifftybabe/Gifftybabe/main/images/linkedin.png" alt=”Gifftybabe | LinkedIn” width=”21px”/></a>
 
 ## 🔭 I'm currently working on
 
