@@ -1,5 +1,10 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css"
+        integrity="sha384-zIaWifL2YFF1qaDiAo0JFgsmasocJ/rqu7LKYH8CoBEXqGbb9eO+Xi3s6fQhgFWM" crossorigin="anonymous">
+        
 <p align="center">
-<img width="100%" height="200" src="https://user-images.githubusercontent.com/105078661/190636598-76dcf7cc-a6db-4bc5-84a3-aa9da098aba2.jpg" alt="my banner"
+<img width="50px" height="100px" src="https://user-images.githubusercontent.com/105078661/190636598-76dcf7cc-a6db-4bc5-84a3-aa9da098aba2.jpg" alt="my banner"
 
 <P/>
 
