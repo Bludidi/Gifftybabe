@@ -15,6 +15,17 @@ I love the challenge of finding solutions to problems and spending time to meet 
 
 ### 🤝 Connect with me:
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/moxie99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/moxie99" height="30" width="40" /></a>
+<a href="https://dev.to/https://app.daily.dev/moxie99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/moxie99" height="30" width="40" /></a>
+<a href="https://twitter.com/Gifftybabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gifftybabe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/Gifftybabe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Gifftybabe/" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@moxiedav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@moxiedav" height="30" width="40" /></a>
+<a href="https://medium.com/@Gifftybabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Gifftybabe" height="30" width="40" /></a>
+<a href="/https://hashnode.com/Gifftybabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/Gifftybabe" height="30" width="40" /></a>
+</p>
+
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
