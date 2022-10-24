@@ -40,6 +40,10 @@ I love the challenge of finding solutions to problems and spending time to meet 
 - Java, HTML, REACT JS, PYTHON
 - Styled Components
 
+<!--- Computer jokes --->
+### wanna hear a joke?😅
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
